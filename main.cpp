@@ -1,17 +1,3 @@
-/* ---------------------------------------------------------------------------
-Copyright (C) 2017 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior
-written consent of DigiPen Institute of Technology is prohibited.
-
-File Name:      main.cpp
-Purpose:        Entry point of our program
-Language:       C++
-Project:        GAM200
-Author:         Name : Stuat Sulaski
-Email:          stuartsulaski@gmail.com
-Creation date:  2017.06.12
-----------------------------------------------------------------------------*/
-
 #include <BunnyEngine.hpp>
 
 #include <GAME_SPECIFIC_FILES/sConfirmQuit.hpp>

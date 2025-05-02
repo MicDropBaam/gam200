@@ -1,20 +1,3 @@
-/* ---------------------------------------------------------------------------
-Copyright (C) 2017 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior
-written consent of DigiPen Institute of Technology is prohibited.
-
-File Name:      BunnyEngine.cpp
-Purpose:        The main part of our engine.
-Handles creating and destroying stages.
-Switching between play and editor mode.
-Also handles the main game loop.
-Language:       C++
-Project:        GAM200
-Author:         Name : Stuart Sulaski
-Email:          stuartsulaski@gmail.com
-Creation date:  2017.06.12
-----------------------------------------------------------------------------*/
-
 #include <BunnyEngine.hpp>
 #include <Abstractions/AudioAbst.hpp>
 #include <WIP/Keyboard.hpp>

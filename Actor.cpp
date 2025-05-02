@@ -1,17 +1,3 @@
-/* ---------------------------------------------------------------------------
-Copyright (C) 2017 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior
-written consent of DigiPen Institute of Technology is prohibited.
-
-File Name:      Actor.cpp
-Purpose:        Actor class that contains a collection of components
-Language:       C++
-Project:        GAM200
-Author:         Name : Stuart Sulaski
-Email:          stuartsulaski@gmail.com
-Creation date:  2017.06.12
-----------------------------------------------------------------------------*/
-
 #include <Actor.hpp>
 #include <Utilities/JsonWriter.hh>
 #include <Components/Transform.hpp>

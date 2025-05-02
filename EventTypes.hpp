@@ -1,18 +1,3 @@
-/* ---------------------------------------------------------------------------
-Copyright (C) 2017 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior
-written consent of DigiPen Institute of Technology is prohibited.
-
-File Name:      EventTypes.hh
-Purpose:        File that abstracts all window events into our own enum. This was in case we wanted to switch out window libs
-                this was a mistake and a waste of time.
-Language:       C++
-Project:        GAM200
-Author:         Name : Stuart Sulaski
-Email:          stuartsulaski@gmail.com
-Creation date:  2017.06.12
-----------------------------------------------------------------------------*/
-
 #pragma once
 
 #include <Abstractions/WindowAbst.hpp>
